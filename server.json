@@ -1,9 +1,14 @@
 {
   "schedules": [
     {
-      "id": 1755124369263,
-      "name": "Diego Marcelo",
+      "id": "1755124369263",
+      "name": "Diego Marcelo de Souza Silva",
       "when": "2025-08-14T00:00:00.000Z"
+    },
+    {
+      "id": 1755202902032,
+      "name": "Diego Lindão",
+      "when": "2025-08-14T21:00:00.000Z"
     }
   ]
 }
