@@ -14,8 +14,6 @@ O layout do projeto foi inspirado por um design da Rocketseat (possivelmente um 
 
 ![Preview do projeto](./assets/preview.png)
 
-> Substitua o arquivo `preview.png` em `./assets/` pela imagem desejada do seu projeto.
-
 ## 3. Funcionalidades
 
 - Criar e editar agendamentos
