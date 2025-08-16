@@ -10,6 +10,12 @@ HairDay é uma aplicação web para auxiliar salões de beleza a gerenciar seus 
 
 O layout do projeto foi inspirado por um design da Rocketseat (possivelmente um protótipo no Figma). Ele oferece uma interface clara, com navegação intuitiva e foco na experiência do usuário.
 
+### 📸 Preview
+
+![Preview do projeto](./assets/preview.png)
+
+> Substitua o arquivo `preview.png` em `./assets/` pela imagem desejada do seu projeto.
+
 ## 3. Funcionalidades
 
 - Criar e editar agendamentos
