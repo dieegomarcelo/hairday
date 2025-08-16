@@ -12,7 +12,7 @@ O layout do projeto foi inspirado por um design da Rocketseat (possivelmente um 
 
 ### 📸 Preview
 
-![Preview do projeto](./assets/preview.png)
+![Preview do projeto](./src/assets/preview.png)
 
 ## 3. Funcionalidades
 
